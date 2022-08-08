@@ -1,4 +1,4 @@
-![Games AI](https://github.com/guilliu/games/blob/main/games%20ai.jpeg)
+![Games AI](https://github.com/Guilliu/games_ai/blob/main/games%20ai.jpeg)
 # Games AI:
 
 **Games AI** es una librería para el desarrollo de juegos en Python, tanto a nivel estructural como de estrategias.
